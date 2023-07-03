@@ -10,7 +10,7 @@ start-backoffice:
 start-front: start-front-example start-backoffice
 
 
-clone:
+clone: clone-back clone-backoffice clone-front-example clone-sdk
 
 clone-back:
 	git clone https://github.com/FantinPro/nest-js-analytics back
