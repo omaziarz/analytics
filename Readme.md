@@ -30,7 +30,7 @@ make start-back
 ```
 
 ```bash
-make -j start-front
+make start-front -j
 ```
 
 Cela va lancer 3 projets:
