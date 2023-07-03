@@ -17,7 +17,7 @@
 
 Pour commencer il faut clonner ce repo.
 
-Après l'avoir clonner on se met à la racine du projet et on clonne les 4 sous projet en effectuant la commande suivante
+Après l'avoir clonné on se met à la racine du projet et on clonne les 4 sous projet en effectuant la commande suivante
 
 ```bash
 make clone
